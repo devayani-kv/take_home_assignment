@@ -1,0 +1,75 @@
+########################### Association Profiles ##################################
+
+Delta Analytics was founded in 2014 by a group of economic consultants from the San Francisco Bay Area. Their primary background is in the private sector, but they sought to leverage their data skills for the welfare of the community by focusing on the non-profit sector. The organization collaborates with non-profits to generate positive social impact through key data insights and management services. Their mission is encapsulated in the phrase "data for change," reflecting their dedication to using data to drive social progress. Delta Analytics helps public service organizations with various data-driven needs, including compiling metrics, managing databases, and producing statistical inferences, all aimed at facilitating the organization, measurement, and creation of social change.
+
+To be a member of the Delta Analytics Fellow, you need to meet the following criteria:
+
+1. **Deep Technical Knowledge**: You should have a strong background in data science, engineering, or data visualization.
+2. **Professional Experience**: You might be working as an economic consultant, data scientist, data analyst, or software engineer at a technology firm. Alternatively, you could have data experience from schooling (e.g., economics or statistics programs), research projects, or internships.
+3. **Passion for Nonprofits**: You should have a demonstrated passion for assisting nonprofits and a commitment to Delta's mission.
+4. **Time Commitment**: You must be able to commit 5-10 hours per week for a 6-month period, with monthly cohort-wide Saturday working sessions.
+5. **Remote Work**: While Delta is based in the US, they accept remote fellows nationally.
+6. **Educational Background**: Full-time undergraduate students are not eligible, but students enrolled in Masters, PhD, or professional programs (e.g., MBA) with data experience can apply.
+
+These criteria ensure that fellows have the necessary technical skills, professional experience, and dedication to make a meaningful impact in the nonprofit sector.       
+
+The Delta Analytics Fellow is a highly competitive program. According to the provided context, in 2017, only 25-35 fellows were selected from thousands of applications. This indicates that being chosen as a Delta Fellow is a significant achievement, reflecting a high level of recognition and reputation within the field.
+
+########################### Membership Requirements ##################################
+
+The specific criteria for membership in the Delta Analytics Fellow program are as follows:
+
+1. **Previous Data and Analytics Experience**: Applicants should have some experience working with data, which can come from professional work, schooling (e.g., economics or statistics programs), research projects, or internships. The range of data experience can vary widely, and there is no definitive list of required skills.
+
+2. **Passion for Assisting Nonprofits**: Demonstrated enthusiasm and commitment to helping nonprofits is crucial.
+
+3. **Professional Background**: Typical applicants are professionals who have worked with data in various capacities, such as economic consultants, data analysts or data scientists at tech companies, data visualization specialists, economics PhDs, program managers, software engineers, and financial analysts.
+
+4. **Commitment to Mission**: A strong commitment to Delta Analytics' mission and an interest in applying and expanding data capabilities.
+
+5. **Eligibility for Students**: Full-time undergraduate students are not eligible. However, students enrolled in a Masters, PhD, or professional program (e.g., MBA) who have data experience are eligible to apply.
+
+Additionally, since 2022, the program has been accepting remote fellows nationally, not just those in the San Francisco Bay Area.
+
+The selection process for becoming a Delta Analytics Fellow involves several steps and the involvement of recognized experts. Here is a detailed breakdown:
+
+1. **Application Process**:
+   - **Step 1: Application**: Interested candidates must submit an application. The application period for the next round is currently closed, but typically, candidates are required to fill out an application form detailing their background and experience.
+   - **Step 2: Interview**: After reviewing the applications, selected candidates are invited to interview days in January 2024. These interviews are conducted in person and are designed to get to know the candidates better, including their professional background and interests.
+   - **Step 3: Selection**: The final selection of fellows occurs in late January or February 2024. Successful candidates are then paired with projects that match their interests and abilities. The fellowship class meets for the first time in February 2024.
+
+2. **Selection Criteria**:
+   - Fellows are chosen based on their previous experience in data and analytics and their demonstrated passion for assisting nonprofits. Typical applicants include professionals with data experience from their full-time jobs, schooling, research projects, or internships. There is no definitive list of required skills, but a commitment to Delta's mission and enthusiasm for applying and expanding data capabilities are crucial.
+
+3. **Involvement of Recognized Experts**:
+   - The selection process involves recognized experts who review applications and conduct interviews to ensure that candidates have the necessary technical skills and passion for the nonprofit sector. Past volunteers have included economic consultants, data analysts, data scientists, data visualization specialists, economics PhDs, program managers, software engineers, and financial analysts.
+
+4. **Commitment and Expectations**:
+   - The fellowship is a 6-month commitment, typically from February to July, with an expected time commitment of 5-10 hours per week. Fellows participate in monthly cohort-wide Saturday working sessions and are part of a community of like-minded, data-driven individuals.
+
+Overall, the selection process is thorough and designed to ensure that fellows are well-equipped to drive impact in the nonprofit world through their data expertise.      
+#################### Affidavits from Association Officials ##########################
+
+The specific criteria for membership in the Delta Analytics Fellow program are as follows:
+
+1. **Previous Data and Analytics Experience**: Applicants should have some experience working with data, which can come from professional work, schooling (e.g., economics or statistics programs), research projects, or internships. The range of data experience can vary widely, and there is no definitive list of required skills.
+
+2. **Passion for Assisting Nonprofits**: Demonstrated enthusiasm and commitment to helping nonprofits is crucial.
+
+3. **Professional Background**: Typical applicants are professionals who have worked with data in their full-time jobs. Past volunteers have included economic consultants, data analysts or data scientists at tech companies, data visualization specialists, economics PhDs, program managers, software engineers, and financial analysts.
+
+4. **Commitment to Mission**: A strong commitment to Delta Analytics' mission and an interest in applying and expanding data capabilities are essential.        
+
+5. **Eligibility for Students**: Full-time undergraduate students are not eligible. However, students enrolled in a Masters, PhD, or professional program (e.g., MBA) who have data experience are eligible to apply.
+
+Additionally, since 2022, the program has been accepting remote fellows nationally, not just those in the San Francisco Bay Area.
+
+Jiten Oswal meets the following criteria for membership in the Delta Analytics Fellow program:
+
+1. **Previous Data and Analytics Experience**: Jiten has extensive experience in engineering, product, and operations, with a focus on data and AI. His work includes driving engineering execution, technical strategy, and innovation, which involves significant data and analytics work.
+
+2. **Professional Background**: Jiten has a professional background that aligns with the typical applicants for the Delta Analytics Fellow program. He has held roles as an engineering leader at various high-profile companies such as Softbank, Salesforce, and Matterport. His experience includes managing global engineering teams and developing significant products and solutions.
+
+3. **Eligibility for Students**: Although the context does not specify Jiten's current student status, it is clear that he is a professional with over 11 years of experience, making him eligible under the professional background criterion.
+
+Additionally, Jiten was selected as a Delta Fellow in 2017, which indicates that he met the criteria at that time.
