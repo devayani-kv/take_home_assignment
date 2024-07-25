@@ -1,0 +1,214 @@
+
+*************************** Affidavits from key personnel ***************************
+
+Several factors contribute to Salesforce's distinguished and positive reputation in the tech industry:
+
+1. **Visionary Leadership**: Salesforce's Chair and CEO, Marc Benioff, has been a pivotal figure in the company's success. His forward-thinking approach, as highlighted in the Fortune feature story, has driven Salesforce's stratospheric rise. Benioff's dedication to social and environmental causes and philanthropy also enhances the company's reputation.
+
+2. **Ethical Design and Social Responsibility**: Salesforce emphasizes the ethical use of technology. The company empowers its engineering and product teams to consider the impact of their creations, applying ethical use principles in their design and development processes. This commitment to ethics in technology positions Salesforce as a responsible and conscientious player in the industry.
+
+3. **Addressing Workplace Equality**: Salesforce has taken proactive steps to address pay disparity issues within the organization. When top human-resources executives identified a potential pay-disparity problem between male and female workers, Benioff quickly initiated a comprehensive review. This action demonstrates Salesforce's commitment to workplace equality and fairness.
+
+4. **Customer Success Focus**: Customer success has been a central driver of Salesforce's growth. By prioritizing the success of its customers, Salesforce has built strong, lasting relationships and a loyal customer base, which has fueled its exponential growth and solidified its market position.
+
+5. **Strategic Acquisitions**: Salesforce's strategic acquisitions, such as the proposed acquisition of Slack Technologies, Inc., have expanded its capabilities and market reach, further enhancing its reputation as a leading software company.
+
+These factors collectively contribute to Salesforce's distinguished and positive reputation in the tech industry.
+
+Jiten Oswal served as a Technical Lead (LMTS) at Salesforce from 2013 to 2020. During his tenure, he was involved in multiple verticals and played a significant role in building and production-izing major revenue-generating Salesforce products. His specific roles and responsibilities included:
+
+1. **Salesforce Sales Einstein (Lead Scoring & Predictive Forecasting)**:
+   - Contributed to the development of early machine learning-based features such as "Lead Scoring" and "Predictive Forecasting".
+   - Worked on production-izing the ETL pipeline and addressing scalability concerns for large-scale enterprise customers.
+
+2. **Developer Productivity Tools**:
+   - Developed tools for Cost to Serve Applications in both Public and Private Cloud.
+   - Created Perf Automation as a Service.
+   - Developed an E2E Web Performance Simulator.
+   - Built observability and optimization tools.
+
+3. **Salesforce Search**:
+   - Part of the Core Search team, responsible for the entire Search E2E Infrastructure of the Salesforce CRM.
+
+4. **Core Sales Cloud (Home, Task, MRU, Email)**:
+   - Worked in the Sales Cloud team, which owns, maintains, and develops all the core sales-related features of the Salesforce CRM Web and mobile app.
+
+Additionally, Jiten Oswal was privileged to have six patents approved by the US Patent Office, primarily in the Enterprise Infrastructure & Platform category and a few in the Developer Tooling category. These patents include systems and methods for determining optimal Cost-To-Serve, real-time determination of Cost-To-Serve metrics, E2E Performance Simulation, and actionable insights to optimize the performance of E2E Web Products.
+
+Jiten Oswal had a significant impact on Salesforce's success during his tenure from 2013 to 2020. He worked across multiple verticals and was instrumental in building and productionizing major revenue-generating Salesforce products, including Salesforce Einstein, Sales Cloud, and Core Search Cloud. His contributions include:
+
+1. **Salesforce Einstein**: Jiten played a key role in developing early machine learning-based features such as "Lead Scoring" and "Predictive Forecasting." He also worked on productionizing the ETL pipeline and addressing scalability concerns for large-scale enterprise customers.
+
+2. **Developer Productivity Tools**: He developed several tools aimed at improving developer productivity, including Cost to Serve Applications in Public & Private Cloud, Performance Automation as a Service, E2E Web Performance Simulator, and various observability and optimization tools.
+
+3. **Salesforce Search**: Jiten was part of the Core Search team, responsible for the entire Search E2E Infrastructure of the Salesforce CRM, ensuring efficient and effective search functionalities within the platform.
+
+4. **Core Sales Cloud**: He contributed to the Sales Cloud team, which develops and maintains all core sales-related features of the Salesforce CRM web and mobile app.
+
+Additionally, Jiten was granted six patents by the US Patent Office, primarily in the Enterprise Infrastructure & Platform category and the Developer Tooling category. These patents include innovations in cost-to-serve metrics, performance simulation, and actionable insights for optimizing web product performance.
+
+Overall, Jiten Oswal's technical expertise and innovative contributions significantly drove business growth and customer satisfaction at Salesforce.
+
+*************************** Organization Profiles and Achievements *****************************
+
+Salesforce was founded in 1999 by Marc Benioff, a former sales executive at Oracle. The company was established with the bold premise that software could be delivered over the internet, a concept that was revolutionary at the time. Since its inception, Salesforce has aimed to change the world and improve it for the better through technology and fostering strong relationships between teams and employees, companies and customers, citizens and government, and individuals who want to make a difference.
+
+The mission statement of Salesforce is to build bridges between companies and customers, helping businesses succeed by creating meaningful connections. They aim to deliver this mission by uniting every department to better focus on customers with their Customer 360 platform, the world's #1 CRM. Salesforce emphasizes the importance of sharing a single source of truth with integrated collaboration across all teams.
+
+Additionally, Salesforce is committed to stakeholder capitalism, ensuring that they do well by all their stakeholders, including customers, employees, partners, communities, the planet, and society as a whole. They lead by example through initiatives in philanthropy, racial equality and justice, climate action and advocacy, and the ethical and humane use of technology.
+
+Salesforce has received numerous awards and recognitions, including:
+
+1. **Leader in the IDC MarketScape Report for Enterprise B2C Digital Commerce** (May 08, 2024).
+2. **Ranked #1 CRM Provider for 11th Consecutive Year** (May 01, 2024).
+3. **Named to World's Most Ethical Companies List for the 15th Time** (Mar 04, 2024).
+4. **Leader in the 2024 Gartner® Magic Quadrant™ for Customer Data Platforms** (Feb 21, 2024).
+5. **Leader in the 2023 Gartner® Magic Quadrant™ for CRM Customer Engagement Center** (Nov 20, 2023).
+6. **Recognized in the Salesforce Customer Appreciation Awards 2024** (Feb 01, 2024).
+
+These recognitions highlight Salesforce's leadership and excellence in various aspects of digital commerce, customer relationship management, ethical business practices, and customer engagement.
+
+Salesforce's current financial status and industry position are robust and strong. Here are the key highlights:
+
+1. **Revenue Growth**: For the first quarter of fiscal 2025, Salesforce reported a revenue of $9.13 billion, which is an 11% increase year-over-year (Y/Y). For the fiscal year 2024, the company achieved a total revenue of $34.9 billion, also up by 11% Y/Y.
+
+2. **Profitability**: The first quarter GAAP operating margin was 18.7%, and the non-GAAP operating margin was significantly higher. For the fiscal year 2024, the GAAP operating margin was 14.4%, and the non-GAAP operating margin was 30.5%.
+
+3. **Cash Flow**: Salesforce's operating cash flow for fiscal year 2024 increased by 44% to $10.2 billion, indicating strong capital management and operational efficiency.
+
+4. **Financial Ratios**: The company has a current ratio of 1.11 and a debt/equity ratio of 0.21, suggesting a stable financial position with manageable debt levels.
+
+5. **Stock Performance**: Salesforce's beta is 1.29, indicating that its stock price has been more volatile than the market average over the past five years.
+
+6. **Industry Position**: Salesforce remains the global leader in CRM and has shown significant year-over-year growth in revenue and cash flow. The company's total remaining performance obligation at the end of the fourth quarter was $56.9 billion, an increase of 17% Y/Y, highlighting its strong business model and growth potential.
+
+Overall, Salesforce is in a strong financial position with significant growth in revenue, profitability, and cash flow, maintaining its leadership in the CRM industry.
+
+*************************** Documentation Of Roles and Contributions ******************************
+
+A Technical Lead (LMTS) at Salesforce has a comprehensive set of responsibilities and duties, which include:
+
+1. **Design, Development, and Implementation**: They are responsible for designing, developing, and implementing Salesforce solutions across the enterprise.
+
+2. **Team Leadership**: They lead a team of 2-5 individuals, guiding team development efforts towards successful project delivery. This includes providing technical leadership through coaching and mentorship.
+
+3. **Custom Development**: They lead custom development on the Salesforce.com platform, which involves technical design, development, documentation, configuration, maintenance, administration, and integration of the Salesforce platform.
+
+4. **System Architecture and Coding**: They handle system architecture, coding, testing, and deployment, ensuring the system is launched successfully and continuously updated, upgraded, and maintained.
+
+5. **Quality Standards**: They maintain high standards of software quality within the team by establishing good practices and habits.
+
+6. **Security Audits**: Conducting security audits is part of their responsibilities to ensure the system's security and compliance.
+
+In summary, a Technical Lead (LMTS) at Salesforce is responsible for the end-to-end management of Salesforce solutions, from initial design and development to ongoing maintenance and security, while also leading and mentoring a team to ensure high-quality project delivery.
+
+At Salesforce, the job title above a Technical Lead (LMTS) could be a **Principal Member of Technical Staff (PMTS)** or **Senior Manager/Director of Engineering**. The job title below a Technical Lead (LMTS) could be a **Senior Member of Technical Staff (SMTS)** or **Member of Technical Staff (MTS)**.
+*************************** Project Descriptions and Outcomes ********************************
+The objectives and scope of Salesforce Sales Einstein, specifically focusing on Lead Scoring and Predictive Forecasting, are as follows:
+
+1. **Einstein Lead Scoring**:
+   - **Objective**: To analyze all historical field data on the Lead object to determine the likelihood of a lead converting.
+   - **Scope**: 
+     - It continually updates the lead score as new data is added.
+     - It uses AI to associate each lead with a Job Rank and a Department based on the lead's title, which helps in finding patterns in the data more easily.
+     - It provides insights into how interested a lead or contact is in your business.
+
+2. **Einstein Forecasting**:
+   - **Objective**: To improve forecasting accuracy and provide more certainty and visibility to sales forecasts.
+   - **Scope**:
+     - It uses AI technology to generate forecast predictions.
+     - It helps track the performance of sales teams.
+     - It aims to take the guesswork out of forecasting by providing data-driven insights.
+
+These tools are part of the broader Sales Cloud Einstein suite, which includes additional features like Einstein Opportunity & Account Insights and Einstein Activity Capture.
+
+A very specific and technical question!
+
+Salesforce's Developer Productivity Tools aim to enhance the development experience, improve application performance, and reduce costs. Here are the objectives and scope of each tool, excluding contributions by Jiten Oswal:
+
+**Cost to Serve Applications in Public & Private Cloud**:
+Objective: Optimize cloud resource utilization and reduce costs.
+Scope: Analyze and provide insights on cloud resource allocation, usage, and costs. This tool helps developers and architects design cost-effective architectures, right-size resources, and optimize cloud spend.
+
+**Perf Automation as a Service**:
+Objective: Automate performance testing and optimization.
+Scope: Provide a managed service for automated performance testing, allowing developers to identify and fix performance bottlenecks early in the development cycle. This tool helps ensure applications meet performance and scalability requirements.
+
+**E2E Web Perf Simulator**:
+Objective: Simulate real-user interactions to identify performance issues.
+Scope: Mimic real-user interactions to simulate web application performance, identifying bottlenecks and areas for optimization. This tool helps developers optimize the user experience, improve page load times, and increase conversion rates.
+
+**Observability & Optimization tools**:
+Objective: Provide visibility into application performance and optimize resource utilization.
+Scope: Offer a suite of tools to monitor, analyze, and optimize application performance, including logging, tracing, and metrics analysis. These tools help developers identify performance issues, optimize resource allocation, and improve overall application reliability.
+
+These tools are designed to help developers build high-performing, scalable, and cost-effective applications on the Salesforce platform. By leveraging these tools, developers can improve the overall quality and reliability of their applications, while also reducing costs and improving the user experience.
+
+A very specific question!
+
+After conducting a thorough search, I found some information on the Salesforce Core Search team. Please note that I'll provide an answer based on publicly available data, and I'll exclude any contributions from Jiten Oswal as per your request.
+
+**Objectives:**
+
+The Salesforce Core Search team is responsible for developing and maintaining the search functionality within the Salesforce platform. Their primary objectives include:
+
+1. **Improving search relevance and accuracy**: Enhancing the search algorithm to provide more accurate and relevant results for users.
+2. **Scaling search for large datasets**: Ensuring the search functionality can handle large volumes of data and scale efficiently.
+3. **Enhancing search usability**: Improving the user experience by providing features like autocomplete, faceting, and filtering.
+
+**Scope:**
+
+The scope of the Salesforce Core Search team includes:
+
+1. **Search indexing and querying**: Developing and maintaining the search indexing and querying mechanisms to support various search features.
+2. **Search ranking and relevance**: Improving the ranking and relevance of search results to provide users with the most relevant information.
+3. **Search integration with other Salesforce features**: Integrating search with other Salesforce features, such as Einstein Analytics, Commerce Cloud, and Customer 360.
+4. **Search performance optimization**: Optimizing search performance to ensure fast and efficient search results.
+
+Please note that these objectives and scope might not be exhaustive, as some information might be proprietary or not publicly available.
+
+The objectives and scope of the Core Sales Cloud features (Home, Task, MRU, Email) at Salesforce are centered around enhancing the sales side of a business. These features are designed to help sales teams generate the best leads, manage opportunities through the sales pipeline, and cultivate relationships with accounts. Specifically:
+
+1. **Home**: This feature likely serves as a central dashboard where sales representatives can get an overview of their tasks, opportunities, and other important metrics. It helps in organizing daily activities and keeping track of sales performance.
+
+2. **Task**: This feature is used for managing and tracking tasks related to sales activities. It ensures that sales representatives can stay on top of their to-do lists, follow up on leads, and complete necessary actions to move opportunities forward.
+
+3. **MRU (Most Recently Used)**: This feature helps users quickly access their most recently used records and items. It enhances efficiency by allowing sales representatives to easily navigate back to the records they frequently work with.
+
+4. **Email**: This feature integrates email communication within the Sales Cloud, allowing sales representatives to send, receive, and track emails directly from the Salesforce platform. It helps in maintaining a seamless communication flow with clients and prospects.
+
+Overall, these core features are tailored to align with various business models, styles, needs, and languages, making the sales process more efficient and effective.
+
+Specific contrubutions to Salesforce Sales Einstein (Lead Scoring & Predictive Forecasting)
+Jiten Oswal made significant contributions to Salesforce Sales Einstein, particularly in the areas of Lead Scoring and Predictive Forecasting. His specific contributions include:
+
+1. **Development of Early ML-Based Features**: Jiten was involved in the development of Salesforce's early machine learning-based features, specifically focusing on "Lead Scoring" and "Predictive Forecasting." These features are crucial for enhancing the efficiency and accuracy of sales processes by predicting the likelihood of leads converting into customers and forecasting future sales performance.
+
+2. **Production-izing the ETL Pipeline**: He worked on making the ETL (Extract, Transform, Load) pipeline production-ready. This involved ensuring that the data processing workflows were robust, efficient, and scalable to handle the large volumes of data typical of enterprise customers.
+
+3. **Addressing Scalability Concerns**: Jiten addressed scalability concerns to ensure that the solutions could effectively serve large-scale enterprise customers. This likely involved optimizing algorithms, improving data handling processes, and ensuring that the system could scale seamlessly as the volume of data and number of users increased.
+
+These contributions were part of his broader role at Salesforce, where he worked across multiple verticals and successfully built and production-ized major revenue-generating products.
+
+Specific contrubutions to Developer Productivity Tools: Cost to Serve Applications in Public & Private Cloud, Perf Automation as a Service, E2E Web Perf Simulator, Observability & Optimization tools
+Jiten Oswal has made significant contributions to various Developer Productivity Tools at Salesforce, specifically in the areas of Cost to Serve Applications in Public & Private Cloud, Perf Automation as a Service, E2E Web Perf Simulator, and Observability & Optimization tools. Here are the detailed contributions:
+
+1. **Cost to Serve Applications in Public & Private Cloud**:
+   - Jiten has been involved in developing systems and methods for determining the optimal cost to serve while developing applications in the public cloud. This includes real-time determination of cost-to-serve metrics and cost attribution, which are crucial for managing and optimizing cloud expenses.
+
+2. **Perf Automation as a Service**:
+   - Although specific details about his contributions to Perf Automation as a Service are not provided, it can be inferred that Jiten worked on automating performance testing and monitoring processes to enhance developer productivity and ensure application performance.
+
+3. **E2E Web Perf Simulator**:
+   - Jiten has contributed to the development of end-to-end (E2E) performance simulation tools. His work includes controlling key factors of E2E web products, performing cost-benefit analysis with multi-iteration support, and extending performance simulation to any platform via metadata. These tools help in simulating real-world performance scenarios and optimizing web product performance.
+
+4. **Observability & Optimization Tools**:
+   - Jiten has developed actionable insights to optimize the performance of E2E web products. These tools likely involve monitoring and analyzing application performance metrics to identify and address performance bottlenecks, thereby improving overall system efficiency and reliability.
+
+In summary, Jiten Oswal's contributions to Developer Productivity Tools at Salesforce have focused on optimizing cloud costs, automating performance testing, simulating web performance, and enhancing observability and optimization of web products. His work has been instrumental in improving the efficiency and effectiveness of application development and deployment processes.
+
+Specific contrubutions to Salesforce Search - Core Search team
+Jiten Oswal made significant contributions to the Salesforce Search - Core Search team during his tenure at Salesforce. Specifically, he was responsible for the entire Search End-to-End (E2E) Infrastructure of the Salesforce CRM. This role involved ensuring the robustness, scalability, and efficiency of the search functionalities within Salesforce's CRM platform, which is a critical component for users to efficiently find and manage their data within the system.
+
+Specific contrubutions to Core Sales Cloud (Home, Task, MRU, Email)
+Jiten Oswal contributed to the Core Sales Cloud at Salesforce by working on the team responsible for owning, maintaining, and developing all core sales-related features of the Salesforce CRM web and mobile applications. This includes features related to Home, Task, MRU (Most Recently Used), and Email functionalities within the Core Sales Cloud. His role involved ensuring these features were robust, scalable, and met the needs of Salesforce's enterprise customers.
